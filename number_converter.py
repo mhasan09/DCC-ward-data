@@ -1,9 +1,3 @@
-# a = [[1, 2, 3], [4, 2, 1]]
-# for i in a:
-#     del i[0]
-# print(a)
-# print(a[0][0])
-
 bengali = {
             '০': 0,
             '১': 1,
