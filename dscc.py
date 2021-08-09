@@ -1,5 +1,5 @@
 import xlrd
-path = "../data/dscc_data.xlsx"
+path = "./data/dscc_data.xlsx"
 inputWorkBook = xlrd.open_workbook(path)
 inputWorkSheet = inputWorkBook.sheet_by_index(0)
 json_data = []
