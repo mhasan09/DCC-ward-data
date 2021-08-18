@@ -1,3 +1,6 @@
+'''
+The data could in Bengali numeric form this function will convert this into English numeric form
+'''
 bengali = {
             '০': 0,
             '১': 1,

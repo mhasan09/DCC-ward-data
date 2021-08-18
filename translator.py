@@ -1,3 +1,7 @@
+'''
+Sometimes the data is in bengali which needs to be translated. It's from the google Translator API library in PyPI
+'''
+
 from googletrans import Translator
 import time
 start_time = time.time()
